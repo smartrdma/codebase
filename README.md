@@ -1,6 +1,5 @@
 # SmartRDMA
 
-![smartrdma](https://user-images.githubusercontent.com/96873993/147757269-d05f61e5-660a-4a88-b3ea-8822d60e1ce2.png)
+![smartrdma1](https://user-images.githubusercontent.com/96873993/147813851-28acd5cc-a1fd-4811-b541-303c54638cf9.png)
 
-SmartRDMA is the frst DIMSP system fully implemented in the programmable network. 
-
+https://github.com/smartrdma/codebase
